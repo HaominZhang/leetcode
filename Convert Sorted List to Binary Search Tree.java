@@ -1,5 +1,4 @@
-    //http://blog.csdn.net/linhuanmars/article/details/23904937
-    public TreeNode sortedListToBST(ListNode head) {
+ public TreeNode sortedListToBST(ListNode head) {
      if(head == null)  
             return null;  
         ListNode cur = head;  
